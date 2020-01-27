@@ -9,3 +9,5 @@ food_model_1.h5
 food_model_2.h5
 food_model_3.h5
 food_model_best.h5
+food_classifier_inceptionv3.h5
+food_classifier_inceptionv3_final.h5
